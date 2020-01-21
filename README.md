@@ -11,7 +11,7 @@ Warcraft 3 Reforged
     8. Click Install
     9. Wait, it should install the beta for you automatically
     10. Once installed you should have he newest version of the beta
-    11. As of update 1.32.0.14300 for the beta, download "wc3runlocker-v0.2.exe" unlocker (The only unlocker that well work)
+    11. As of update 1.32.0.14411 for the beta, download "wc3runlocker-v0.2.exe" unlocker (The only unlocker that well work)
     12. Put the unlocker in "Warcraft 3 Reforged directory>x86_64"
     13. Run the unlocker, it well automatically launch the game
     14. Click "Play Offline"
@@ -30,7 +30,7 @@ Warcraft 3 Reforged
     10. Once installed you should have he newest version of the beta
     
   Install (Unlocker):
-    1. As of update 1.32.0.14300 for the beta, download "wc3runlocker-v0.2.exe" unlocker (The only unlocker that well work)
+    1. As of update 1.32.0.14411 for the beta, download "wc3runlocker-v0.2.exe" unlocker (The only unlocker that well work)
     2. Put the unlocker in "Warcraft 3 Reforged directory>x86_64"
     3. Run the unlocker, it well automatically launch the game
     4. Click "Play Offline"
